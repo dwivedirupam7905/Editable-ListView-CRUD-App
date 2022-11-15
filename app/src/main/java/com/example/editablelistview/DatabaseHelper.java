@@ -7,6 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
+// CRUD: CREATE-READ-UPDATE-DELETE
 
 public class DatabaseHelper extends SQLiteOpenHelper {
 
