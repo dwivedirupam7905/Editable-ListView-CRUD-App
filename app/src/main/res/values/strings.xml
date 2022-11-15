@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Editable ListView</string>
+    <string name="entry">Enter New Entry</string>
+    <string name="add">add</string>
+    <string name="view">view contents</string>
+    <string name="img">image</string>
+    <string name="name">Update</string>
+    <string name="dlt">delete</string>
+    <string name="save">Save</string>
+    <string name="image">update</string>
+</resources>
